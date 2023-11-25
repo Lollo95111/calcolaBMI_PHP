@@ -27,8 +27,8 @@
         }
 
         .btn-primary {
-            background-color: #28a745;
-            border-color: #28a745;
+            background-color: blue;
+            border-color: black;
             font-weight: bold;
         }
 
@@ -60,7 +60,7 @@
         <div class="row justify-content-center align-item-center">
             <div class="col-8">
                 <h1>Body Mass Index (BMI) Calculator</h1>
-                <img src="trainer-image.jpg" alt="Personal Trainer" class="trainer-image">
+                <img src="https://cdn.pixabay.com/photo/2016/11/24/13/01/white-male-1856186_1280.jpg" alt="Personal Trainer" class="trainer-image">
                 <form action="bmi2.php" method="POST">
                     <div class="mb-3">
                         <label class="form-label">Enter Weight (kg)</label>
